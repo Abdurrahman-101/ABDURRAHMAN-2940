@@ -1,6 +1,8 @@
 ## TravelGo Get Started
 
-install dev dependencies
+Extract the zip file contents 
+
+install dev dependencies (including TailwindCSS & Navigation)
 
 ### `npm install` or `yarn install`
 
