@@ -1,6 +1,6 @@
 ## TravelGo Get Started
 
-Extract the zip file contents 
+Extract the zip file contents (from Google Drive)
 
 install dev dependencies (including TailwindCSS & Navigation)
 
